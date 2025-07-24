@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Python Assignment 1 - Basic Python Concepts
 
 This repository contains solutions for Assignment 1 from Module 2: Basic Python Concepts.
@@ -20,4 +20,4 @@ This repository contains solutions for Assignment 1 from Module 2: Basic Python 
 =======
 # tutedude_assignments
 This repository contains Python assignments from my learning modules.
->>>>>>> 645989196153afd473ba13155c29ae2d6a916a5e
+
