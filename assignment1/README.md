@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Assignment 1 - Basic Python Concepts
 
 This repository contains solutions for Assignment 1 from Module 2: Basic Python Concepts.
@@ -16,3 +17,7 @@ This repository contains solutions for Assignment 1 from Module 2: Basic Python 
 ## Files
 - `task1.py` - Code for basic math operations.
 - `task2.py` - Code for personalized greeting.
+=======
+# tutedude_assignments
+This repository contains Python assignments from my learning modules.
+>>>>>>> 645989196153afd473ba13155c29ae2d6a916a5e
