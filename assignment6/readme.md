@@ -27,5 +27,5 @@ A simple GUI-based calculator built using **Python's Tkinter library**. This cal
 2. Clone this repository or copy the code into a `.py` file, e.g., `calculator.py`.
 3. Run the file:
 
-
+```bash
 python calculator.py
